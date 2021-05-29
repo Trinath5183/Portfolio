@@ -288,6 +288,14 @@ html {
     cursor:pointer;
     box-shadow: 0 0 10px rgb(234, 0, 255);
 }
+.cont{
+    text-align: center;
+}
+.conti{
+    text-align: center;
+    color:red;
+    padding-bottom:  50px;
+}
 
 
 
